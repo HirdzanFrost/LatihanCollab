@@ -7,6 +7,7 @@ class Alert_1 extends react.Component {
         return(
             <div>
                 <Alert severity="success">This is a success alert — check it out!</Alert>
+
             </div>
         )
     }
